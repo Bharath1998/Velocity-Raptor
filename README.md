@@ -21,4 +21,13 @@ The aim of the game is simple. Avoid obstacles!
 * Clone the repository
 * Run `main.sh` in a fullscreen terminal
 
+## Demo
+![Start screen screenshot](demo/Screenshot&#32;from&#32;2019-07-22&#32;19-30-23.png "Start screen")
 
+![Model selection screenshot](demo/Screenshot&#32;from&#32;2019-07-22&#32;19-30-32.png "Player model selection")
+
+![Walk mode screenshot](demo/Screenshot&#32;from&#32;2019-07-22&#32;19-30-43.png "Walk mode")
+
+![Jump mode screenshot](demo/Screenshot&#32;from&#32;2019-07-22&#32;19-32-05.png "Jump mode")
+
+![Game over screenshot](demo/Screenshot&#32;from&#32;2019-07-22&#32;19-32-13.png "Game over")
