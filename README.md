@@ -1,4 +1,4 @@
-# Velocity-Raptor
+
 # Velocity Raptor
 This is a game developed purely in BASH. Checkout the demo at the bottom.
 
